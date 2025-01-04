@@ -1,1 +1,2 @@
-platform=linux/arm/v7 jeessy/ddns-go
+navidrome
+--platform=linux/arm/v7 deluan/navidrome
