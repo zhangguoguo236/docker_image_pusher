@@ -1,1 +1,1 @@
-platform=linux/arm/v7 deluan/navidrome
+platform=linux/arm/v7 alist
