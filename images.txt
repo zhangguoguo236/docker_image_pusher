@@ -1,1 +1,1 @@
-platform=linux/armhf navidrome
+platform=linux/armhf deluan/navidrome
