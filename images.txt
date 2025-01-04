@@ -1,1 +1,1 @@
-deluan/navidrome
+platform=linux/armv7 deluan/navidrome
