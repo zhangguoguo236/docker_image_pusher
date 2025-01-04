@@ -1,1 +1,1 @@
-platform=linux/arm/v7 navidrome
+platform=linux/armhf navidrome
