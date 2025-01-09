@@ -1,1 +1,1 @@
---platform=linux/arm/v7 clash
+--platform=linux/arm/v7 wangbinxingkong/fast:latest
