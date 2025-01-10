@@ -1,1 +1,1 @@
---platform=linux/arm/v7 jeessy/ddns-go:latest
+--platform=linux/arm/v7 musicn-container:latest
