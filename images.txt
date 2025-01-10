@@ -1,1 +1,1 @@
---platform=linux/arm/v7 xhofe/alist:latest
+--platform=linux/arm/v7 xhofe/alist-aria2:latest
