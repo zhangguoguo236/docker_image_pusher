@@ -1,1 +1,1 @@
---platform=linux/arm/v7 yourname/webui-aria2
+--platform=linux/arm/v7 xhofe/alist:latest
