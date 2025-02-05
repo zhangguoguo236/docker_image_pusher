@@ -1,1 +1,1 @@
---platform=linux/arm/v7 ghcr.io/home-assistant/home-assistant:stable
+--platform=linux/arm/v7 ghcr.io/home-assistant/home-assistant:latest
