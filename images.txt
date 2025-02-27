@@ -1,2 +1,2 @@
---platform=linux/armhf zhuoqi-chen/baota-panel
+--platform=linux/armhf baota-panel
 --platform=linux zhuoqi-chen/baota-panel
