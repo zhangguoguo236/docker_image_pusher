@@ -1,1 +1,1 @@
---platform=linux/arm/v7 kalcaddle/kodexplorer
+--platform=linux/arm/v7 centos:centos7
