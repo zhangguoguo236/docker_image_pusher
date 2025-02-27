@@ -1,1 +1,1 @@
---platform=linux/armhf windows7
+--platform=linux/armhf nzzaidi/baota-docker
