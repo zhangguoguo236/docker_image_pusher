@@ -1,1 +1,1 @@
---platform=linux/arm/v7 btpanel/baota
+--platform=linux/arm/v7 cyberbolt/baota
