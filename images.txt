@@ -1,3 +1,3 @@
 
---platform=linux baota-panel
+--platform=linux baota
 
