@@ -1,1 +1,1 @@
---platform=linux/armhf nzzaidi/baota-docker
+--platform=linux/armhf zhuoqi-chen/baota-panel
