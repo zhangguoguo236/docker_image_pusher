@@ -1,3 +1,3 @@
---platform=linux/armhf kodcloud/kodbox:latest
+--platform=linux/amd64 kodcloud/kodbox:latest
 
 
