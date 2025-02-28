@@ -1,1 +1,1 @@
---platform=linux/armhf xiaoyulan/armv7_baota5.9:V1.0
+--platform=linux/armhf bigowen/baota
