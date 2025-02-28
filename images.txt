@@ -1,2 +1,3 @@
---platform=linux/armhf xiaoyulan/armv7_baota7.9.4_test:v1
+--platform=linux/armhf sequentialread/tserofnosnoj:0.0.0-0855bcc-9d27-arm
+
 
