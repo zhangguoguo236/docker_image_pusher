@@ -1,1 +1,2 @@
---platform=linux/armhf zhonghaibin/armv7l-baota
+--platform=linux/armhf xiaoyulan/armv7_baota7.9.4_test:v1
+
