@@ -1,3 +1,3 @@
---platform=linux/amd64 kodcloud/kodbox:latest
+--platform=linux/armhf dogdok/polaris
 
 
