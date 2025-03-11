@@ -1,3 +1,3 @@
---platform=linux/armhf dogdok/polaris
+--platform=linux/armhf polaris
 
 
