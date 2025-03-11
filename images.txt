@@ -1,3 +1,3 @@
---platform=linux/armhf Jackett/Jackett
+--platform=linux/arm/v7 Jackett/Jackett
 
 
