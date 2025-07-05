@@ -1,3 +1,4 @@
---platform=linux/arm64 vdsm/virtual-dsm:latest
+--platform=linux/arm64/v8 vdsm/virtual-dsm:7.27
+
 
 
