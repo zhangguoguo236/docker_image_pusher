@@ -1,4 +1,5 @@
---platform=linux/arm64/v8 vdsm/virtual-dsm:7.27
+--platform=linux/arm64/v8 kodcloud/kodbox:1.59
+
 
 
 
