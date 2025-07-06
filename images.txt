@@ -1,4 +1,5 @@
---platform=linux/arm64/v8 kodcloud/kodbox:1.59
+--platform=linux/arm64/v8 ionewu/owjdxb_a64:latest
+
 
 
 
