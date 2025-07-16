@@ -1,4 +1,5 @@
---platform=linux/arm64/v8 ionewu/owjdxb_a64:latest
+--platform=linux/arm/v7 jellyfin/jellyfin:2025060205
+
 
 
 
