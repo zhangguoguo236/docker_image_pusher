@@ -1,4 +1,4 @@
---platform=linux/arm/v7 senshinya/moontv:latest
+--platform=linux/arm/v7 ghcr.io/senshinya/moontv:latest
 
 
 
