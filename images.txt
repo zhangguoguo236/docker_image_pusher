@@ -1,4 +1,4 @@
---platform=linux/arm/v7 jellyfin/jellyfin:2025060205
+--platform=linux/arm/v7 senshinya/moontv:latest
 
 
 
