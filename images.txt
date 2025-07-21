@@ -1,4 +1,4 @@
---platform=linux/amd64 kodcloud/kodbox:1.55
+--platform=linux/amd64 gdy666/lucky
 
 
 
