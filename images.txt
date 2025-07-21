@@ -1,4 +1,5 @@
---platform=linux/amd64 ghcr.io/senshinya/moontv:latest
+--platform=linux/amd386 kodcloud/kodbox:1.59
+
 
 
 
