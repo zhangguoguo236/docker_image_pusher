@@ -1,4 +1,4 @@
---platform=linux/amd386 kodcloud/kodbox:1.59
+--platform=linux/amd64 kodcloud/kodbox:1.59
 
 
 
