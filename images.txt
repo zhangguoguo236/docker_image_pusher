@@ -1,4 +1,4 @@
---platform=linux/amd64 1panel/openresty:1.27.1.2-2-1-focal
+--platform=linux/amd64 1panel/php:7.1.33-fpm
 
 
 
