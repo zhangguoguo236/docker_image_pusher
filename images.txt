@@ -1,4 +1,4 @@
---platform=linux/amd64 cyb3rdoc/onenvr
+--platform=linux/amd64 cyb3rdoc/onenvr:latest
 
 
 
