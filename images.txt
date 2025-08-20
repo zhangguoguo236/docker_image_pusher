@@ -1,4 +1,4 @@
---platform=linux/amd64 1panel/php:7.1.33-fpm
+--platform=linux/amd64 cyb3rdoc/onenvr
 
 
 
