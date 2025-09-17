@@ -1,4 +1,4 @@
---platform=linux/arm64 postgres:17.6-alpine
+--platform=linux/arm64 dpage/pgadmin4:9.8
 
 
 
