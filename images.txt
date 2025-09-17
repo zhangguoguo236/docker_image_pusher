@@ -1,4 +1,4 @@
---platform=linux/amd64 dockurr/windows:4.35
+--platform=linux/arm64 ghcr.io/imagegenius/immich:latest
 
 
 
