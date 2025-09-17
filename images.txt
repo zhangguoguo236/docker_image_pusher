@@ -1,4 +1,4 @@
---platform=linux/arm64 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0@sha256:8d292bdb796aa58bbbaa47fe971c8516f6f57d6a47e7172e62754feb6ed4e7b0
+--platform=linux/arm64 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
 
 
 
