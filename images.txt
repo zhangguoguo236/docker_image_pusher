@@ -1,4 +1,4 @@
---platform=linux/arm64 ghcr.io/immich-app/immich-server:latest
+--platform=linux/arm64 ghcr.io/immich-app/immich-server:release
 
 
 
