@@ -1,4 +1,4 @@
---platform=linux/amd64 ghcr.io/imagegenius/immich
+--platform=linux/amd64 dockurr/windows:4.35
 
 
 
