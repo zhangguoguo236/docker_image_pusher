@@ -1,4 +1,4 @@
---platform=linux/arm64 duplicati/duplicati:2.1.2.0-beta
+--platform=linux/arm64 linuxserver/duplicati:latest
 
 
 
