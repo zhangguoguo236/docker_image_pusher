@@ -1,4 +1,4 @@
---platform=linux/arm64 linuxserver/duplicati:latest
+--platform=linux/arm64 immich-server:release
 
 
 
