@@ -1,4 +1,4 @@
---platform=linux/armhf lsioarmhf/qbittorrent:latest
+--platform=linux/arm64 image: ghcr.io/immich-app/immich-server:release
 
 
 
