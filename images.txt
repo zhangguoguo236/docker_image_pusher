@@ -1,8 +1,8 @@
 --platform=linux/arm64 ghcr.io/immich-app/immich-server:release
 --platform=linux/amd64 jitsi/web:web-1.0.8887-1
-
-
-
+--platform=linux/amd64 jitsi/prosody:prosody-13.0.2
+--platform=linux/amd64 jitsi/jicofo:jicofo-1.0-1162-1
+--platform=linux/amd64 jitsi/jvb:jvb-2.3-259-g22868ff7d-1
 
 
 
