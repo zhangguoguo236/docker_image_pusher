@@ -1,5 +1,5 @@
 --platform=linux/arm64 ghcr.io/immich-app/immich-server:release
---platform=linux/arm64 ghcr.io/fish2018/pansou-web
+--platform=linux/amd64 jitsi/web:web-1.0.8887-1
 
 
 
