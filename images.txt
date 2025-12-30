@@ -1,5 +1,7 @@
 --platform=linux/arm64 ghcr.io/immich-app/immich-server:release
 --platform=linux/amd64 ghcr.io/immich-app/immich-server:release
+--platform=linux/arm64 ghcr.io/wy580477/musicn-container:latest
+
 
 
 
