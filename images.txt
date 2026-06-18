@@ -1,5 +1,4 @@
 --platform=linux/arm64 ghcr.io/immich-app/immich-server:release
 --platform=linux/amd64 ghcr.io/immich-app/immich-server:release
 --platform=linux/arm64 ghcr.io/wy580477/musicn-container:latest
---platform=linux/armhf clash-lan/clash
 --platform=linux/amd64 gdocmost/docmost:latest
