@@ -1,4 +1,3 @@
---platform=linux/amd64 jumpserver/jms_all:v4.10.16
 --platform=linux/arm64 docmost/docmost:latest
 --platform=linux/arm64 docker.getoutline.com/outlinewiki/outline:latest
 --platform=linux/arm64 ghcr.io/immich-app/immich-server:release
