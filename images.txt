@@ -1,1 +1,1 @@
---platform=linux/amd64 seatable/seatable-developer:latest
+--platform=linux/amd64 ygbinac/smarttable:latest
