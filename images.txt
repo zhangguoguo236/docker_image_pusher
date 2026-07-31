@@ -1,1 +1,1 @@
---platform=linux/arm64 ygbinac/smarttable:latest
+--platform=linux/arm64 ygbinac/smarttable:1.6.3
