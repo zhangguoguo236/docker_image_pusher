@@ -1,1 +1,1 @@
---platform=linux/amd64  duplicati/duplicati:latest
+--platform=linux/amd64  mirotalk/sfu:latest
