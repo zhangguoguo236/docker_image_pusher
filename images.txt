@@ -1,1 +1,1 @@
---platform=linux/amd64  mirotalk/sfu:latest
+--platform=linux/amd64  ghcr.io/zhangguoguo236/huiyi:latest
